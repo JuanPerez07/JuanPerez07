@@ -140,7 +140,7 @@ Computer vision and 3D perception project focused on camera calibration, point c
 
 🔗 https://github.com/JuanPerez07/Perception
 
-``
+---
 
 ## Interests
 
